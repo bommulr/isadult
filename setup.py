@@ -11,7 +11,7 @@ setuptools.setup(
     description="A small age check library",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/bommulr/testing2",
+    url="https://github.com/bommulr/isadult",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
